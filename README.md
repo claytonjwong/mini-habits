@@ -23,6 +23,10 @@ Permanently add healthy, habitual behaviors to your life
    * bad habits -> stress -> more bad habits -> more stress...
 
 ## How Your Brain Works
+### Conscious and Unconscious
+* Repetition is the language of the unconscious brain (ie. repeat it to remember it)
+* The brain will resist change unless those changes reward the brain
+
 
 ## Willpower vs. Motivation
 
