@@ -8,7 +8,7 @@ Permanently add healthy, habitual behaviors to your life
 * With the right knowledge and strategy to change, convulted and impossible become straightforward and possible
 
 ### What is a Mini Habit?
-A mini habit is a VERY small positive behavior that your force yourself to do every day
+* A mini habit is a VERY small positive behavior that your force yourself to do every day
     * A mini habit is basically a *much* smaller version of a new habit you want to perform
     * A small amount of willpower forces us to perform mini habits daily
 
