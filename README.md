@@ -33,13 +33,18 @@ Permanently add healthy, habitual behaviors to your life
 
 ### A Stupid Repeater & A Smart Manager
 * The basal ganglia
-    * recognizes and repeats patterns until told otherwise
+    * understands “what is”
+    * recognizes and efficiently repeats patterns until told otherwise
+    * *not* conscious or aware of higher level goals
+    * plays a central role in habit formation and procedural learning
+    * lots of stamina (ex: long-distance marathon runner)
 * The prefrontal cortex
     * understands long-term benefits and consequences
     * has the ability to override the basal ganglia
     * short-term thinking and decision making
     * focuses on “what could be”
     * the conscious part of the brain identified as “you”
+    * minimal stamina (ex: sprinter)
 
 The only way to create habits is to teach the rest of the brain
 to like what the prefrontal cortex wants.
