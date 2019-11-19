@@ -23,9 +23,29 @@ Permanently add healthy, habitual behaviors to your life
    * bad habits -> stress -> more bad habits -> more stress...
 
 ## How Your Brain Works
-### Conscious and Unconscious
-* Repetition is the language of the unconscious brain (ie. repeat it to remember it)
-* The brain will resist change unless those changes reward the brain
+### Conscious and Unconscious Entities
+* 2 keys to habit change: Repetition and Reward
+    * Repetition is the language of the unconscious brain (ie. repeat it to remember it)
+        * The subconscious brain loves efficiency and learns to automate frequent tasks
+    * The brain will resist change unless those changes reward the brain
+    * The goal in creating habits is to change the brain with repetition
+* The brain changes slowly over time
+
+### A Stupid Repeater & A Smart Manager
+* The basal ganglia
+    * recognizes and repeats patterns until told otherwise
+* The prefrontal cortex
+    * understands long-term benefits and consequences
+    * has the ability to override the basal ganglia
+    * short-term thinking and decision making
+    * focuses on “what could be”
+    * the conscious part of the brain identified as “you”
+
+The only way to create habits is to teach the rest of the brain
+to like what the prefrontal cortex wants.
+
+
+
 
 
 ## Willpower vs. Motivation
