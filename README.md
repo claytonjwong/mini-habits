@@ -1,6 +1,8 @@
 # Mini Habits
 Permanently add healthy, habitual behaviors to your life
 
+* **ISBN:** 9781494882273
+
 ## Intro to Mini Habits
 * We are quick to blame ourselves for lack of progress but slow to blame our strategies 
     * doing a little bit is *infinitely* bigger and better than doing nothing
