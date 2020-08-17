@@ -40,14 +40,16 @@ Permanently add healthy, habitual behaviors to your life
 * The basal ganglia
     * understands “what is”
     * recognizes and efficiently repeats patterns until told otherwise
-    * *not* conscious or aware of higher level goals
+    * *not* conscious or aware of higher-level goals
     * plays a central role in habit formation and procedural learning
     * lots of stamina (ex: long-distance marathon runner)
 * The prefrontal cortex
+    * focuses on “what could be”
     * understands long-term benefits and consequences
+    * concious of higher-level goals (a trait unique to humans)
     * has the ability to override the basal ganglia
     * short-term thinking and decision making
-    * focuses on “what could be”
+
     * the conscious part of the brain identified as “you”
     * minimal stamina (ex: sprinter)
 
