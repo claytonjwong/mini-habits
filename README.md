@@ -30,6 +30,9 @@ Permanently add healthy, habitual behaviors to your life
     * The brain will resist change unless those changes reward the brain
     * The goal in creating habits is to change the brain with repetition
 * The brain changes slowly over time
+    * This is a good thing, otherwise we could wake up a different person each day
+    * This can be frustrating when attempting to learn
+* The only way to create habits is to teach the rest of the brain to like what the prefrontal cortex wants.
 
 ### A Stupid Repeater & A Smart Manager
 * The basal ganglia
@@ -46,13 +49,6 @@ Permanently add healthy, habitual behaviors to your life
     * the conscious part of the brain identified as “you”
     * minimal stamina (ex: sprinter)
 
-The only way to create habits is to teach the rest of the brain
-to like what the prefrontal cortex wants.
-
-
-
-
-
 ## Willpower vs. Motivation
 
 ## Strategy of Mini Habits
@@ -62,10 +58,4 @@ to like what the prefrontal cortex wants.
 ## Mini Habits: Eight Steps to Big Change
 
 ## Eight Mini Habit Rules
-
-
-
-
-
-
 
