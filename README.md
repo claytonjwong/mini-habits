@@ -49,11 +49,21 @@ Permanently add healthy, habitual behaviors to your life
     * concious of higher-level goals (a trait unique to humans)
     * has the ability to override the basal ganglia
     * short-term thinking and decision making
-
     * the conscious part of the brain identified as “you”
     * minimal stamina (ex: sprinter)
 
 ## Willpower vs. Motivation
+Motivation is an unreliable strategy for lasting change.  "Getting motivated" dominates self-help literature despite being completely ineffective long term.  If getting motivated if your strategy, you can't build habits, since habits require consistent repetition.  Motivation is unreliable and inconsistent because it's based on how you feel, and we've known for centuries that human feelings are fluid and unpredictable.  Anything dependent on human emotion is completely unreliable.  Motivation is like building a house on liquid.  Motivation is *not* easy to cultivate on demand since it's hard to change your feelings by thinking.  Often we don't want to get motivated, so if you don't want to get motivated, and getting motivated was your strategy for doing things, then you've lost the battle before it has begun.  A destructive habit to have is believing that you have to be motivated to act; this idea that motivation preceeds action can become deeply ingrained into a person's psyche.  As a behavior begins its transition into habit, you will become less emotional about it.  The act of performing a habit is curiously emotionless.  Lack of enthusiasm after some time is counterintuitively a positive sign that control is moving to the more stable and automated basal ganglia.
+
+While willpower is the best strategy, most people don't know how to use it and drain their willpower reserves quickly.  By using willpower, motivation becaues more reliable; motivation comes fast when you take action first.  Willpower is extremely reliable and can be strengthened like a muscle.  Thus, we can strengthen our ability to improve ourselves.  Using willpower, you can schedule an activity and do it whether you are motivated at the time or not.  We've got to maximize our self-control reserves to be effective at changing ourselves.  Ego depletion essentially means the same thing as willpower or self-control depletion.
+
+### The 5 biggest factors found to cause ego depletion:
+
+1. Effort
+2. Perceived Difficulty
+3. Negative Affect
+4. Subjective Fatigue
+5. Blood Glucose Levels
 
 ## Strategy of Mini Habits
 
