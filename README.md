@@ -1,5 +1,5 @@
 # Mini Habits
-Permanently add healthy, habitual behaviors to your life
+Permanently add healthy, habitual behaviors to your life.
 
 * **ISBN:** 9781494882273
 
@@ -37,13 +37,13 @@ Permanently add healthy, habitual behaviors to your life
 * The only way to create habits is to teach the rest of the brain to like what the prefrontal cortex wants.
 
 ### A Stupid Repeater & A Smart Manager
-* The basal ganglia
+* The Basal Ganglia
     * understands “what is”
     * recognizes and efficiently repeats patterns until told otherwise
     * *not* conscious or aware of higher-level goals
     * plays a central role in habit formation and procedural learning
     * lots of stamina (ex: long-distance marathon runner)
-* The prefrontal cortex
+* The Prefrontal Cortex
     * focuses on “what could be”
     * understands long-term benefits and consequences
     * concious of higher-level goals (a trait unique to humans)
@@ -104,5 +104,34 @@ One of the most important skills a person can develop is mindfullness, which is 
 
 ## Mini Habits: Eight Steps to Big Change
 
+Mini habits are designed to change your brain and your life from the inside out.  You'll have no choice but to believe when it starts happening.  Over time, your subconscious mind will change, and it gets easier to change your behavior from there.
+
 ## Eight Mini Habit Rules
 
+1. Never, Ever Cheat
+    * It doesn't matter that your goal is small.  You're training your brain for success and building up a smaller version of what you hope to accomplish someday.
+    * Don't raise your expectations, expect little and you'll have the hunger to do more.  "Secretly" requiring more requires more willpower to meet.
+2. By Happy with All Progress
+    * Be happy, but never satisfied.
+    * Mini habits are a pretty simle brain trick at the core, but also a life philosophy that values starting, letting action precede motivation, and believing that small steps can accumulate into giant leaps forward.
+3. Reward Yourself Often, Especially After a Mini Habit
+    * Since most healthy behaviors offer limited reward now and greater long-term rewards, it's helpful to attach some form of encouragement to the activity in the early stages.  Starting is the hardest part, both in the moment and in the early days of habit-building.  Initially, you will see limited results.
+    * Your reward is going to pay you back by encouraging you to perform your mini habit again.  Ultimately, this creates a positive feedback loop.  You will get "addicted" to living a great life.
+4. Stay Level-Headed
+    * Aim for a calm mindset and trust in the process.  The calm mindset is the best mindset for building habits because it's steady and predictable.
+    * Reliance on emotions such as motivation is what foils many personal development plans.
+    * The difference betweeen winners and losers is that the losers quit when things get boring and monotonous.  It's not about motivation; it's about leveraging and conserving your willpower to form lifelong good habits.
+5. If You Feel Strong Resistance, Back Off & Go Smaller
+    * "Stupid small" steps slide under the brain's resistance radar.
+    * If resistance is strong, progressive take smaller and smaller steps until the resistance is minimal.
+    * Burnout is willpower exhaustion - it happens when people force themselves to do too much for too long.
+6. Remind Yourself How Easy This Is
+    * Our brains have been trained incorrectly with societal norms, limiting beliefs, and overwhelming goals.  You can actually do this.
+    * Mini habits make you believe that adding healthy behaviors is easy.
+    * The bar is so low, it's impossible to lose.  When you never lose, you tend to win.
+7. Never Think a Step is Too Small
+    * Every big project is made of small steps.
+    * Small steps are sometimes the only way to move forward if you have weak willpower.
+8. Put Extra Energy and Ambition Toward Bonus Reps, Not a Bigger Requirement
+    * Bigger requirements look good on paper, but only action counts.
+    * Be the person with emarrassing goals and impressive results (instead of one of the many people with impressive goals and embarrassing results).
