@@ -123,7 +123,7 @@ Mini habits are designed to change your brain and your life from the inside out.
     * The difference betweeen winners and losers is that the losers quit when things get boring and monotonous.  It's not about motivation; it's about leveraging and conserving your willpower to form lifelong good habits.
 5. If You Feel Strong Resistance, Back Off & Go Smaller
     * "Stupid small" steps slide under the brain's resistance radar.
-    * If resistance is strong, progressive take smaller and smaller steps until the resistance is minimal.
+    * If resistance is strong, progressively take smaller and smaller steps until the resistance is minimal.
     * Burnout is willpower exhaustion - it happens when people force themselves to do too much for too long.
 6. Remind Yourself How Easy This Is
     * Our brains have been trained incorrectly with societal norms, limiting beliefs, and overwhelming goals.  You can actually do this.
