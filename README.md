@@ -111,7 +111,7 @@ Mini habits are designed to change your brain and your life from the inside out.
 1. Never, Ever Cheat
     * It doesn't matter that your goal is small.  You're training your brain for success and building up a smaller version of what you hope to accomplish someday.
     * Don't raise your expectations, expect little and you'll have the hunger to do more.  "Secretly" requiring more requires more willpower to meet.
-2. By Happy with All Progress
+2. Be Happy with All Progress
     * Be happy, but never satisfied.
     * Mini habits are a pretty simle brain trick at the core, but also a life philosophy that values starting, letting action precede motivation, and believing that small steps can accumulate into giant leaps forward.
 3. Reward Yourself Often, Especially After a Mini Habit
