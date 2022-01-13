@@ -46,7 +46,7 @@ Permanently add healthy, habitual behaviors to your life.
 * The Prefrontal Cortex
     * focuses on “what could be”
     * understands long-term benefits and consequences
-    * concious of higher-level goals (a trait unique to humans)
+    * conscious of higher-level goals (a trait unique to humans)
     * has the ability to override the basal ganglia
     * short-term thinking and decision making
     * the conscious part of the brain identified as “you”
@@ -78,14 +78,14 @@ People who feel like winners act like winners.  Nothing is more motivating and i
 
 When it comes to activites that require physical or mental effort, it's extremely common to overestimate how difficult they are.  By starting small and entiering reality of doing the work, your mind will see that one small step is not as difficult as it first seemed, and that taking the next step isn't difficult either.  You will eventually form a comfortable habit of taking that first step into a new behavior.
 
-The common way people go about this change is diving in and trying a "whatever it takes to succeed" strategy.  This is like sprinting well outside of your comfort circle and fighting to stay there.  That's when your subconcious brain says, "this is interesting, but I'm really uncomfortable with this huge change," and it forces you back inside your comfort circle when your motivation and willpower can no longer support you out there.  Your brain is like a cat in the snow; spring massive changes on it and it will run back to its comfortable routines.  But introduce changes gently and in small doses, and it just might be curious (not scared) to explore them more.  Your brain is programmed to resist change, but most of that resistance comes at two particular moments:
+The common way people go about this change is diving in and trying a "whatever it takes to succeed" strategy.  This is like sprinting well outside of your comfort circle and fighting to stay there.  That's when your subconscious brain says, "this is interesting, but I'm really uncomfortable with this huge change," and it forces you back inside your comfort circle when your motivation and willpower can no longer support you out there.  Your brain is like a cat in the snow; spring massive changes on it and it will run back to its comfortable routines.  But introduce changes gently and in small doses, and it just might be curious (not scared) to explore them more.  Your brain is programmed to resist change, but most of that resistance comes at two particular moments:
 1. Resistance before action: starting is the hardest part, but that doesn't mean it has to be hard to start.  "Hardest" is relative.  When the first action is just a nudge, initial resistance shrinks.
 2. Resistance to do more: if you're ever in a situation where you'd like to do more than your minimum requirement, simply continue to use small steps (if necessary).  But do not come to expect this every time.  Your requirement is small for all the reasons we're discussing!  You don't want to jeopardize your long-term success for short-term gain.
 
 
 ## The Mini Habits Difference
 
-The brain resists big changes.  The prefrontal cortex has a spending allowance before the automatic part takes over.  For every task, the subconcious brain looks at what you're asking of it and charges you willpower to get into the control room.  You're only allowed to ask for so much manual control per day.  Mini habits are low-willpower Trojan horses that can leverage their easy access into the brain's control room into big results.  The perfect team in personal development is small steps and willpower.  As long as you have enough willpower for an action, you can take that action.  Small steps require little to no willpower.  So it's like having unlimited willpower.  You can get yourself to do just about anything if you guide yourself along in super small steps.  Try it.  Many times when you're tired, engaging your mind or body will take you up.
+The brain resists big changes.  The prefrontal cortex has a spending allowance before the automatic part takes over.  For every task, the subconscious brain looks at what you're asking of it and charges you willpower to get into the control room.  You're only allowed to ask for so much manual control per day.  Mini habits are low-willpower Trojan horses that can leverage their easy access into the brain's control room into big results.  The perfect team in personal development is small steps and willpower.  As long as you have enough willpower for an action, you can take that action.  Small steps require little to no willpower.  So it's like having unlimited willpower.  You can get yourself to do just about anything if you guide yourself along in super small steps.  Try it.  Many times when you're tired, engaging your mind or body will take you up.
 
 Mini habits don't have a specific end date, because we don't know how long it will take to form the habit.  Instead, we'll look for signs that the behavior is a habit.
 
