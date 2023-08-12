@@ -4,7 +4,7 @@ Permanently add healthy, habitual behaviors to your life.
 * **ISBN:** 9781494882273
 
 ## Intro to Mini Habits
-* We are quick to blame ourselves for lack of progress but slow to blame our strategies 
+* We are quick to blame ourselves for lack of progress but slow to blame our strategies
     * doing a little bit is *infinitely* bigger and better than doing nothing
     * doing a little bit *every day* has greater impact than doing a lot on one day
 * With the right knowledge and strategy to change, convulted and impossible become straightforward and possible
@@ -18,9 +18,9 @@ Permanently add healthy, habitual behaviors to your life.
 * Proper mindset - “too small to fail” practically guarantees daily success
 * Positive feedback loop of always attainable target increases self-efficacy
 * Reduce internal resistance to change
-* Leverage small steps into habits built upon consistency 
+* Leverage small steps into habits built upon consistency
 * Feel unstoppable rather than unstartable
-* Create and strengthen specific neural pathways with repetition 
+* Create and strengthen specific neural pathways with repetition
 * Avoid negative feedback loop
    * bad habits -> stress -> more bad habits -> more stress...
 
