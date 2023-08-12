@@ -3,6 +3,10 @@ Permanently add healthy, habitual behaviors to your life.
 
 * **ISBN:** 9781494882273
 
+> When the problem arose for us whether habit or theory was better for getting virtue -- if by theory is meant what teach us correct conduct, and by habit we mean being accustomed to act according to this theory -- Musonius though habit to be more effective.
+>
+[-Musonius Rufus, Lectures, 5.17.31-32, 5.19.1-2](https://en.wikipedia.org/wiki/Gaius_Musonius_Rufus)
+
 ## Intro to Mini Habits
 * We are quick to blame ourselves for lack of progress but slow to blame our strategies
     * doing a little bit is *infinitely* bigger and better than doing nothing
