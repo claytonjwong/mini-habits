@@ -3,7 +3,7 @@ Permanently add healthy, habitual behaviors to your life.
 
 * **ISBN:** 9781494882273
 
-> When the problem arose for us whether habit or theory was better for getting virtue -- if by theory is meant what teach us correct conduct, and by habit we mean being accustomed to act according to this theory -- Musonius though habit to be more effective.
+> When the problem arose for us whether habit or theory was better for getting virtue -- if by theory is meant what teach us correct conduct, and by habit we mean being accustomed to act according to this theory -- Musonius thought habit to be more effective.
 >
 [-Musonius Rufus, Lectures, 5.17.31-32, 5.19.1-2](https://en.wikipedia.org/wiki/Gaius_Musonius_Rufus)
 
@@ -139,3 +139,4 @@ Mini habits are designed to change your brain and your life from the inside out.
 8. Put Extra Energy and Ambition Toward Bonus Reps, Not a Bigger Requirement
     * Bigger requirements look good on paper, but only action counts.
     * Be the person with emarrassing goals and impressive results (instead of one of the many people with impressive goals and embarrassing results).
+
